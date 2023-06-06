@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en" class="auto">
+<!--
+Spatie\LaravelIgnition\Exceptions\ViewException: Undefined variable $salto in file C:\Users\Angel SD\Desktop\workspace\denuncia\storage\framework\views\96b9f468749bb95dcb5e4501a83f750022ba48c7.php on line 107
+
+#0 C:\Users\Angel SD\Desktop\workspace\denuncia\vendor\laravel\framework\src\Illuminate\Foundation\Bootstrap\HandleExceptions.php(255): Illuminate\Foundation\Bootstrap\HandleExceptions-&gt;handleError(2, &#039;Undefined varia...&#039;, &#039;C:\\Users\\Angel ...&#039;, 107)
+#1 C:\Users\Angel SD\Desktop\workspace\denuncia\storage\framework\views\96b9f468749bb95dcb5e4501a83f750022ba48c7.php(107): Illuminate\Foundation\Bootstrap\HandleExceptions-&gt;Illuminate\Foundation\Bootstrap\{closure}(2, &#039;Undefined varia...&#039;, &#039;C:\\Users\\Angel ...&#039;, 107)
+#2 C:\Users\Angel SD\Desktop\workspace\denuncia\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(107): require(&#039;C:\\Users\\Angel ...&#039;)
+#3 C:\Users\Angel SD\Desktop\workspace\denuncia\vendor\laravel\framework\src\Illuminate\Filesystem\Filesystem.php(108): Illuminate\Filesystem\Files
