@@ -184,7 +184,7 @@ footer {
         <input value="{{ $denuncia->dependencia->dependencia }}" style="width:35%; text-indent:0.25cm; font-weight: bold;" readonly> 
 
         <label style="display: inline-block; width:7%; text-align:right">{{ __('Cargo') }}</label>
-        <input value="{{ $denuncia->cargo_denunciado }}" style="width:37.25%; text-indent:0.25cm; font-weight: bold;" readonly> 
+        <input value="{{ $denuncia->cargo_denunciado }}" style="width:37.25%; text-indent:0.25cm; font-weight: bold;" readonly>  
       </div>
     </div>
     <br>
